@@ -1,2 +1,2 @@
-# finance_lm
+# FinanceLM
 Language model for investment analysis
