@@ -15,8 +15,8 @@ Language model for investment analysis. Project for Stanford Deep Generative Mod
 
 **Evaluation:**
 * Evaluation code for Llama2 baseline and fine-tuned versions is in [llama_evaluate.ipynb](https://github.com/Firenze11/finance_lm/blob/main/llama_evaluate.ipynb).
-* Evaluation of GPT models is in the same [file](https://github.com/Firenze11/finance_lm/blob/main/finetune_GPT_.ipynb) as fine-tuning.
+* Evaluation of GPT models is in the same file as fine-tuning: [finetune_GPT.ipynb](https://github.com/Firenze11/finance_lm/blob/main/finetune_GPT_.ipynb)
 
 ## Model Artifacts
 * Unsupervised fine-tuning of Llama2: [PEFT model on Huggingface Hub](https://huggingface.co/Firenze11/llama2-lora-finance/tree/main).
-* Instruction fine-tuned GPT3.5 is [here](https://platform.openai.com/finetune/ftjob-W240Nm2DEa4JTIbyANX1yBbj?filter=all)
+* Instruction fine-tuned GPT3.5 is on [OpenAI Hub](https://platform.openai.com/finetune/ftjob-W240Nm2DEa4JTIbyANX1yBbj?filter=all)
