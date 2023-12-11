@@ -2,7 +2,7 @@
 Language model for investment analysis. Project for Stanford Deep Generative Models.
 
 ## Project Write-up
-[Poster](https://docs.google.com/presentation/d/1ddiobt0MBLBStzkhEoboQrwvz-mbpOgDpAJqJv68GOk/edit#slide=id.g2a321ecdc05_0_0) |  [Report (TBD]()
+[Poster](https://docs.google.com/presentation/d/1ddiobt0MBLBStzkhEoboQrwvz-mbpOgDpAJqJv68GOk/edit#slide=id.g2a321ecdc05_0_0) |  Report (to be added)
 
 ## Code Walk-through
 **Training:** We conducted three experiments fine-tuning Llama2 and GPT3.5.
