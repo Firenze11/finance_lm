@@ -1,5 +1,5 @@
 # FinanceLM
-Language model for investment analysis. Project for Stanford Deep Generative Models.
+Language model for investment analysis. Project for Stanford Deep Generative Models class.
 
 ## Project Write-up
 [Poster](https://docs.google.com/presentation/d/1ddiobt0MBLBStzkhEoboQrwvz-mbpOgDpAJqJv68GOk/edit#slide=id.g2a321ecdc05_0_0) |  Report (to be added)
